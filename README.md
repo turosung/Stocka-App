@@ -13,5 +13,8 @@ public static var apiKey = "INSERT_API_KEY_HERE"
 ```
 
 # Stocka app demo
-![Stocka App demo](https://github.com/turosung/Stocka-App/assets/82477640/95069036-d9b8-4a8a-8527-3ae4fe944396)
+
+https://github.com/turosung/Stocka-App/assets/82477640/a83a208b-e49e-4478-96e9-7693e5e18eaa
+
+
 
