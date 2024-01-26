@@ -12,4 +12,6 @@ This app was built with Swift, UIKit and Combine. The app is built in MVVM archi
 public static var apiKey = "INSERT_API_KEY_HERE"
 ```
 
-# Video of Screens of App
+# Stocka app demo
+![Stocka App demo](https://github.com/turosung/Stocka-App/assets/82477640/95069036-d9b8-4a8a-8527-3ae4fe944396)
+
