@@ -3,6 +3,7 @@ The Stocka app, is a simple app to search companies on the stock exchange or via
 
 # Built With
 This app was built with Swift, UIKit and Combine. The app is built in MVVM architecture.
+* [![Swift][Swift]][Swift-url]
 
 # Getting Started
 ## Installation
