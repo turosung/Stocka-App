@@ -7,7 +7,7 @@ This app was built with Swift, UIKit and Combine. The app is built in MVVM archi
 # Getting Started
 ## Installation
 1. Before you can use the search for companies stocks in the app, you will first need to get an api key from the api finance modeling prep website - https://site.financialmodelingprep.com/
-2. Next enter your api key in the AppConfig.swift
+2. Next enter your api key in the `AppConfig.swift`
 ```
 public static var apiKey = "INSERT_API_KEY_HERE"
 ```
